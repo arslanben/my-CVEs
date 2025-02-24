@@ -33,7 +33,7 @@
 
 * **CVE-2025-0421** description and link will be added when shared publicly. [CWE-1021](https://www.cve.org)
 
-* **CVE-2025-0545** description and link will be added when shared publicly. [CWE-79](https://www.cve.org/CVERecord?id=CVE-2025-0545)
+* **CVE-2025-0545** for details -> [CWE-79](https://www.cve.org/CVERecord?id=CVE-2025-0545)
 
 * **CVE-2025-0546** description and link will be added when shared publicly. [CWE-79](https://www.cve.org)
 
