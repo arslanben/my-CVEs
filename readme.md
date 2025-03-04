@@ -1,5 +1,5 @@
 # My CVEs
-30 CVE ID holders
+32 CVE ID holders
 
 * **CVE-2024-12914** description and link will be added when shared publicly. [CWE-79](https://www.cve.org)
 
@@ -62,6 +62,8 @@
 * **CVE-2025-0879** description and link will be added when shared publicly. [CWE-79](https://www.cve.org)
 
 * **CVE-2025-1740** description and link will be added when shared publicly. [CWE-307](https://www.cve.org)
+
+* **CVE-2025-1885** description and link will be added when shared publicly. [CWE-601](https://www.cve.org)
 
 * ## :warning: Disclaimer :warning:
 
