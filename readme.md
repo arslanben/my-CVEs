@@ -69,6 +69,8 @@
 
 * **CVE-2025-1928** description and link will be added when shared publicly. [CWE-307](https://www.cve.org)
 
+* **CVE-2025-2204** description and link will be added when shared publicly. [CWE-79](https://www.cve.org)
+
 * ## :warning: Disclaimer :warning:
 
 **The information regarding these CVEs is provided solely for educational and research purposes. These vulnerabilities showcase important security issues that need to be addressed and should not be exploited for malicious purposes. The author disclaims responsibility for any illegal use of this information.**
