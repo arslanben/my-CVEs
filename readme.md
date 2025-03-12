@@ -1,5 +1,5 @@
 # My CVEs
-34 CVE ID holders
+35 CVE ID (These CVE IDs were obtained by reporting vulnerabilities of varying impact on different products.)
 
 * **CVE-2024-12914** description and link will be added when shared publicly. [CWE-79](https://www.cve.org)
 
