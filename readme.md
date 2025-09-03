@@ -13,11 +13,11 @@
 
 * **CVE-2024-12974** for details -> [CWE-79](https://www.cve.org/CVERecord?id=CVE-2024-12974)
 
-* **CVE-2024-13063** description and link will be added when shared publicly. [CWE-639](https://www.cve.org)
+* **CVE-2024-13063** for details -> [CWE-639](https://www.cve.org/CVERecord?id=CVE-2024-13063)
 
-* **CVE-2024-13064** description and link will be added when shared publicly. [CWE-79](https://www.cve.org)
+* **CVE-2024-13064** for details -> [CWE-79](https://www.cve.org/CVERecord?id=CVE-2024-13064)
 
-* **CVE-2024-13065** description and link will be added when shared publicly. [CWE-841](https://www.cve.org)
+* **CVE-2024-13065** for details -> [CWE-841]&[CWE-400](https://www.cve.org/CVERecord?id=CVE-2024-13065)
 
 * **CVE-2024-13066** description and link will be added when shared publicly. [CWE-1021](https://www.cve.org)
 
@@ -61,7 +61,7 @@
 
 * **CVE-2025-0879** description and link will be added when shared publicly. [CWE-79](https://www.cve.org)
 
-* **CVE-2025-1740** description and link will be added when shared publicly. [CWE-307](https://www.cve.org)
+* **CVE-2025-1740** for details -> [CWE-307](https://www.cve.org/CVERecord?id=CVE-2025-1740)
 
 * **CVE-2025-1885** description and link will be added when shared publicly. [CWE-601](https://www.cve.org)
 
@@ -85,7 +85,7 @@
 
 * **CVE-2025-2414** for details -> [CWE-307](https://www.cve.org/CVERecord?id=CVE-2025-2414)
 
-* **CVE-2025-2415** description and link will be added when shared publicly. [CWE-307](https://www.cve.org)
+* **CVE-2025-2415** for details -> [CWE-307](https://www.cve.org/CVERecord?id=CVE-2025-2415)
 
 * **CVE-2025-2416** description and link will be added when shared publicly. [CWE-307](https://www.cve.org)
 
