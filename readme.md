@@ -17,7 +17,7 @@
 
 * **CVE-2024-13064** for details -> [CWE-79](https://www.cve.org/CVERecord?id=CVE-2024-13064)
 
-* **CVE-2024-13065** for details -> [CWE-841]&[CWE-400](https://www.cve.org/CVERecord?id=CVE-2024-13065)
+* **CVE-2024-13065** for details -> [CWE-841 & CWE-400](https://www.cve.org/CVERecord?id=CVE-2024-13065)
 
 * **CVE-2024-13066** description and link will be added when shared publicly. [CWE-1021](https://www.cve.org)
 
