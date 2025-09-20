@@ -103,4 +103,4 @@
 
 ## :email: Contact :email:
 
-**For inquiries, collaborations, or further discussions, please feel free to reach out. [Contact Information](mailto:aslanberat2@gmail.com)**
+**For inquiries, collaborations, or further discussions, please feel free to reach out. [Contact Information](mailto:ifeedonhate@proton.me)**
