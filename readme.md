@@ -41,7 +41,7 @@
 
 * **CVE-2025-0606** for details -> [CWE-639](https://www.cve.org/CVERecord?id=CVE-2025-0606)
 
-* **CVE-2025-0607** for details -> [CWE-79](https://www.cve.org/CVERecord?id=CVE-2025-0607)
+* **CVE-2025-0607** for details -> [CWE-116](https://www.cve.org/CVERecord?id=CVE-2025-0607)
 
 * **CVE-2025-0608** for details -> [CWE-601](https://www.cve.org/CVERecord?id=CVE-2025-0608)
 
