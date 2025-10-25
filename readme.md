@@ -1,5 +1,5 @@
 # My CVEs
-53 CVE ID (These CVE IDs were obtained by reporting vulnerabilities of varying impact on different products.)
+54 CVE ID (These CVE IDs were obtained by reporting vulnerabilities of varying impact on different products.)
 
 * **CVE-2024-12914** for details -> [CWE-79](https://www.cve.org/CVERecord?id=CVE-2024-12914)
 
