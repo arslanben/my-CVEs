@@ -108,6 +108,10 @@
 * **CVE-2025-11242** description and link will be added when shared publicly. [CWE-918](https://www.cve.org)
 
 * **CVE-2025-11245** description and link will be added when shared publicly. [CWE-89](https://www.cve.org)
+
+* **CVE-2025-13002** description and link will be added when shared publicly. [CWE-79](https://www.cve.org)
+ 
+* **CVE-2025-13004** description and link will be added when shared publicly. [CWE-639](https://www.cve.org)
   
 * ## :warning: Disclaimer :warning:
 
