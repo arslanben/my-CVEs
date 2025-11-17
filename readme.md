@@ -1,5 +1,5 @@
 # My CVEs
-54 CVE ID (These CVE IDs were obtained by reporting vulnerabilities of varying impact on different products.)
+55 CVE ID (These CVE IDs were obtained by reporting vulnerabilities of varying impact on different products.)
 
 * **CVE-2024-12914** for details -> [CWE-79](https://www.cve.org/CVERecord?id=CVE-2024-12914)
 
@@ -112,6 +112,8 @@
 * **CVE-2025-13002** description and link will be added when shared publicly. [CWE-79](https://www.cve.org)
  
 * **CVE-2025-13004** description and link will be added when shared publicly. [CWE-639](https://www.cve.org)
+
+* **CVE-2025-13296** description and link will be added when shared publicly. [CWE-352](https://www.cve.org)
   
 * ## :warning: Disclaimer :warning:
 
