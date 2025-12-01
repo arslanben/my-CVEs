@@ -113,7 +113,7 @@
  
 * **CVE-2025-13004** description and link will be added when shared publicly. [CWE-639](https://www.cve.org)
 
-* **CVE-2025-13296** description and link will be added when shared publicly. [CWE-352](https://www.cve.org)
+* **CVE-2025-13296** for details -> [CWE-352](https://www.cve.org/CVERecord?id=CVE-2025-13296)
   
 * ## :warning: Disclaimer :warning:
 
