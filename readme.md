@@ -63,11 +63,11 @@
 
 * **CVE-2025-1740** for details -> [CWE-307](https://www.cve.org/CVERecord?id=CVE-2025-1740)
 
-* **CVE-2025-1885** description and link will be added when shared publicly. [CWE-601](https://www.cve.org)
+* **CVE-2025-1885** for details -> [CWE-601](https://www.cve.org/CVERecord?id=CVE-2025-1885)
 
-* **CVE-2025-1927** description and link will be added when shared publicly. [CWE-352](https://www.cve.org)
+* **CVE-2025-1927** for details -> [CWE-352](https://www.cve.org/CVERecord?id=CVE-2025-1927)
 
-* **CVE-2025-1928** description and link will be added when shared publicly. [CWE-307](https://www.cve.org)
+* **CVE-2025-1928** for details -> [CWE-307](https://www.cve.org/CVERecord?id=CVE-2025-1928)
 
 * **CVE-2025-2204** description and link will be added when shared publicly. [CWE-79](https://www.cve.org)
 
