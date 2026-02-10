@@ -5,8 +5,6 @@
 
 * **CVE-2025-11242** for details -> [CWE-918](https://www.cve.org/CVERecord?id=CVE-2025-11242)
 
-* **CVE-2025-11245** description and link will be added when shared publicly. [CWE-89](https://www.cve.org)
-
 * **CVE-2025-10969** description and link will be added when shared publicly. [CWE-89](https://www.cve.org)
 
 * **CVE-2025-10970** description and link will be added when shared publicly. [CWE-89](https://www.cve.org)
