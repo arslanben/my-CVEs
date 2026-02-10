@@ -1,5 +1,5 @@
 # My CVEs
-57 CVE ID (These CVE IDs were obtained by reporting vulnerabilities of varying impact on different products.)
+56 CVE ID (These CVE IDs were obtained by reporting vulnerabilities of varying impact on different products.)
 
 * **CVE-2025-1740** for details -> [CWE-307](https://www.cve.org/CVERecord?id=CVE-2025-1740)
 
