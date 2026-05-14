@@ -9,7 +9,7 @@
 
 * **CVE-2025-10970** for details -> [CWE-89](https://www.cve.org/CVERecord?id=CVE-2025-10970)
 
-* **CVE-2025-11024** description and link will be added when shared publicly. [CWE-89](https://www.cve.org)
+* **CVE-2025-11024** for details -> [CWE-89](https://www.cve.org/CVERecord?id=CVE-2025-11024)
 
 * **CVE-2025-1928** for details -> [CWE-307](https://www.cve.org/CVERecord?id=CVE-2025-1928)
 
