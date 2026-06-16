@@ -37,6 +37,8 @@
 
 * **CVE-2025-2406** for details -> [CWE-79](https://www.cve.org/CVERecord?id=CVE-2025-2406)
 
+* **CVE-2026-12380** reserved - details will be posted here when it becomes public -> [CWE-79](https://www.cve.org/CVERecord?id=CVE-2026-12380)
+
 * **CVE-2025-9902** for details -> [CWE-639](https://www.cve.org/CVERecord?id=CVE-2025-9902)
 
 🗑️
