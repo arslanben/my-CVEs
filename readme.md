@@ -47,6 +47,10 @@
 
 * **CVE-2026-15219** reserved - details will be posted here when it becomes public -> [CWE-639](https://www.cve.org/CVERecord?id=CVE-2026-15219)
 
+* **CVE-2026-19218** reserved - details will be posted here when it becomes public -> [CWE-639](https://www.cve.org/CVERecord?id=CVE-2026-19218)
+
+* **CVE-2026-19083** reserved - details will be posted here when it becomes public -> [CWE-639](https://www.cve.org/CVERecord?id=CVE-2026-19083)
+
 * **CVE-2026-15575** reserved - details will be posted here when it becomes public -> [CWE-489](https://www.cve.org/CVERecord?id=CVE-2026-15575)
 
 * **CVE-2026-15590** reserved - details will be posted here when it becomes public -> [CWE-79](https://www.cve.org/CVERecord?id=CVE-2026-15590)
