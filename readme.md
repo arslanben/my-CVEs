@@ -55,8 +55,6 @@
 
 * **CVE-2026-15590** reserved - details will be posted here when it becomes public -> [CWE-79](https://www.cve.org/CVERecord?id=CVE-2026-15590)
 
-* **CVE-2026-85633** reserved - details will be posted here when it becomes public -> [CWE-79](https://www.cve.org/CVERecord?id=CVE-2026-85633)
-
 🗑️
 
 * **CVE-2024-13068** for details -> [CWE-346](https://www.cve.org/CVERecord?id=CVE-2024-13068)
