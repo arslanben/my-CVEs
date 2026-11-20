@@ -48,6 +48,8 @@
 
 🗑️
 
+* **CVE-2026-130172** for details -> [CWE-113 & CVE-693](https://www.cve.org/CVERecord?id=CVE-2026-130172) -> [GitHub](https://github.com/CollaboraOnline/online/security/advisories/GHSA-f8w5-mp79-798x)
+
 * **CVE-2026-130163** for details -> [CWE-80](https://www.cve.org/CVERecord?id=CVE-2026-130163) -> [GitHub](https://github.com/CollaboraOnline/online/security/advisories/GHSA-m33r-gr95-hh9m)
 
 * **CVE-2024-13068** for details -> [CWE-346](https://www.cve.org/CVERecord?id=CVE-2024-13068)
